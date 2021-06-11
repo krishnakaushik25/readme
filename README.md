@@ -17,6 +17,7 @@
 [<img align="left" alt="Krishna Kaushik | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Krishna Kaushik | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Krishna Kaushik | Discord " width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt="Krishna Kaushik | Twitter " width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 <br><br>
 <hr>
 
@@ -35,3 +36,4 @@
 [linkedin]: https://www.linkedin.com/in/kaushik-2523/
 [Facebook]: https://www.facebook.com/KrishnaKaushikiitg/
 [Discord]: https://discordapp.com/users/707147472098557993/
+[Twitter]: https://twitter.com/Kkk11Krishna
