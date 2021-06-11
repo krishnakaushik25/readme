@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### You can reach me on :
+## 📬 Get in touch
 [<img align="left" alt="git/krishnakaushik25" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][git]
 [<img align="left" alt="Krishna Kaushik | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Krishna Kaushik | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
