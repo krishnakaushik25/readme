@@ -20,10 +20,16 @@
 <br><br>
 <hr>
 
+## &#x1f4c8; My GitHub Stats
 
-![Krishna Kaushik git Stats](https://github-readme-stats.vercel.app/api?username=krishnakaushik25&show_icons=true&hide_border=true&count_private=true)
+<a href="https://github.com/krishnakaushik25/krishnakaushik25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakaushik25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakaushik25&layout=compact)
+<a href="https://github.com/krishnakaushik25/krishnakaushik25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakaushik25&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Krishna Kaushik GitHub Stats" />
+</a>
+
 
 [git]: https://github.com/krishnakaushik25
 [linkedin]: https://www.linkedin.com/in/kaushik-2523/
