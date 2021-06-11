@@ -1,8 +1,7 @@
-# readme
 ## Hey, I'm [Krishna Kaushik][git] 👋
 ### I'm an Undergrad developer and AI enthusiast.
 
-I am a undergraduate student from Indian Institute of Technology Guwahati pursuing my B.Tech in Electronics and Communications Engineering (ECE). Likes to  experiment a lot with AI and SDE Domaon Topics by doing projects.
+I am a undergraduate student from Indian Institute of Technology Guwahati(IITG) pursuing my B.Tech in Electronics and Communications Engineering (ECE). Likes to experiment a lot with AI and SDE Domain Topics by doing projects.
 
 - 🔭 I’m currently working as a SDE intern in Publicis Sapient
 - 🌱 I’m currently learning React,Node.js,GraphQL,Apollo tech stack for the intern project
