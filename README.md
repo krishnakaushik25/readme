@@ -3,8 +3,7 @@
 
 I am a undergraduate student from Indian Institute of Technology Guwahati(IITG) pursuing my B.Tech in Electronics and Communications Engineering (ECE). Likes to experiment a lot with AI and SDE Domain Topics by doing projects.
 
-- 🔭 I’m currently working as a SDE intern in Publicis Sapient
-- 🌱 I’m currently learning React,Node.js,GraphQL,Apollo tech stack for the intern project
+- 🔭 I worked as a SDE intern in Publicis Sapient.
 - 👯 I’m looking to collaborate on Web development and ML/DL based Projects
 - 🤔 I'm also very interested in AI domain especially Deep learning
 <!-- - 🤔 I’m looking for help with ...
