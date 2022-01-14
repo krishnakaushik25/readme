@@ -4,6 +4,7 @@
 I am a undergraduate student from Indian Institute of Technology Guwahati(IITG) pursuing my B.Tech in Electronics and Communications Engineering (ECE). Likes to experiment a lot with AI and SDE Domain Topics by doing projects.
 
 - 🔭 I worked as a SDE intern in Publicis Sapient.
+- 👨‍💻 I am an upcoming Data Scientist at Walmart India. (I will be joining in July 2022). 
 - 👯 I’m looking to collaborate on Web development and ML/DL based Projects
 - 🤔 I'm also very interested in AI domain especially Deep learning
 <!-- - 🤔 I’m looking for help with ...
